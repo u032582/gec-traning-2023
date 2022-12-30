@@ -19,7 +19,8 @@
 				"vscjava.vscode-java-pack",
 				"formulahendry.code-runner",
 				"donjayamanne.git-extension-pack",
-				"oderwat.indent-rainbow"
+				"oderwat.indent-rainbow",
+				"alphabotsec.vscode-eclipse-keybindings"
 			]
 		}
 	}
