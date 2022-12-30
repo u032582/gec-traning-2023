@@ -8,6 +8,10 @@
 		"ghcr.io/devcontainers/features/java:1": {},
 		"ghcr.io/eitsupi/devcontainer-features/jq-likes:1": {}
 	},
+	"remoteEnv": {
+		"JAVA_TOOL_OPTIONS":"-Dfile.encoding=UTF8"
+	},
+
 	"customizations": {
 		"vscode": {
 			"extensions": [
